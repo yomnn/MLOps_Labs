@@ -19,7 +19,7 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import accuracy_score, classification_report
 
 
-df = pd.read_csv("titanic.csv")
+df = pd.read_csv("MLOps_Labs/titanic.csv")
 
 
 features = ['Pclass', 'Sex', 'Age', 'Fare']
