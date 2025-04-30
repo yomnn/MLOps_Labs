@@ -1,0 +1,16 @@
+name: titanic-pipeline
+
+description: A basic Titanic ML pipeline using Scikit-learn
+
+work:
+  train:
+    type: script
+    entrypoint: titanic_pipeline.py
+
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+      - pandas
+      - scikit-learn
+      - numpy
