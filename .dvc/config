@@ -2,3 +2,6 @@
     remote = origin
 ['remote "origin"']
     url = https://dagshub.com/yomna.wael.mu/MLOps_Labs.dvc
+    auth = basic
+    user = yomna.wael.mu
+    password = aa029e772ea4ba5fb7cd202a53696668b83ce06a
