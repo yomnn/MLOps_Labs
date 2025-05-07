@@ -10,8 +10,8 @@ stages:
       isexec: true
     - path: train_model.py
       hash: md5
-      md5: 44b285856296d1c6606f14cd05b69d48
-      size: 3744
+      md5: 2925491f5120bc5d10b5974c6e3226fd
+      size: 3917
       isexec: true
     outs:
     - path: models/model.pkl
