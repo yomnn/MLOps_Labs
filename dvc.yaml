@@ -1,8 +1,10 @@
 stages:
   train:
-    cmd: python src/train_model.py
+    cmd: python train_model.py
     deps:
     - data/titanic.csv
-    - src/train_model.py
+    - train_model.py
     outs:
     - models/model.pkl
+ 
+
