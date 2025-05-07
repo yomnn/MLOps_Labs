@@ -1,0 +1,20 @@
+schema: '2.0'
+stages:
+  train:
+    cmd: python train_model.py
+    deps:
+    - path: data/titanic.csv
+      hash: md5
+      md5: 2309cc5f04782ed9bb6016d9f4e381cf
+      size: 61194
+      isexec: true
+    - path: train_model.py
+      hash: md5
+      md5: 44b285856296d1c6606f14cd05b69d48
+      size: 3744
+      isexec: true
+    outs:
+    - path: models/model.pkl
+      hash: md5
+      md5: 4052e899fcc80cf15873cca29f586e02
+      size: 1873737
