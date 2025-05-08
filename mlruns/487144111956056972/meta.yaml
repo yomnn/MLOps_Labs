@@ -1,0 +1,6 @@
+artifact_location: file:///teamspace/studios/this_studio/MLOps_Labs/mlruns/487144111956056972
+creation_time: 1746640256808
+experiment_id: '487144111956056972'
+last_update_time: 1746640256808
+lifecycle_stage: active
+name: titanic-mlflow-experiment

@@ -1,0 +1,15 @@
+artifact_uri: file:///teamspace/studios/this_studio/MLOps_Labs/outputs/2025-05-07/14-26-00/mlruns/819553738046101789/8839be131db44c408c858cf0d61f2472/artifacts
+end_time: 1746627960953
+entry_point_name: ''
+experiment_id: '819553738046101789'
+lifecycle_stage: active
+run_id: 8839be131db44c408c858cf0d61f2472
+run_name: traveling-cow-407
+run_uuid: 8839be131db44c408c858cf0d61f2472
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746627960752
+status: 4
+tags: []
+user_id: zeus

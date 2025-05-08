@@ -1,0 +1,15 @@
+artifact_uri: file:///teamspace/studios/this_studio/MLOps_Labs/outputs/2025-05-07/14-17-34/mlruns/541129092836504318/413903d4164846d3a093919bcaa91c30/artifacts
+end_time: 1746627454933
+entry_point_name: ''
+experiment_id: '541129092836504318'
+lifecycle_stage: active
+run_id: 413903d4164846d3a093919bcaa91c30
+run_name: popular-duck-800
+run_uuid: 413903d4164846d3a093919bcaa91c30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746627454727
+status: 4
+tags: []
+user_id: zeus

@@ -1,0 +1,22 @@
+data:
+  file_path: data/titanic.csv
+  features:
+  - Pclass
+  - Sex
+  - Age
+  - SibSp
+  - Parch
+  - Fare
+  target: Survived
+  test_size: 0.2
+  random_state: 42
+scaler:
+  method: standard
+model:
+  log_reg:
+    C: 1.0
+    max_iter: 100
+  rf:
+    n_estimators: 100
+  repo_name: MLOps_Labs
+  use_mlfow: true

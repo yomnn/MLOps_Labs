@@ -1,0 +1,15 @@
+artifact_uri: file:///teamspace/studios/this_studio/MLOps_Labs/outputs/2025-05-07/14-38-42/mlruns/786476410954764362/3578c1dc0452491f9ae0afbd4c17a9a7/artifacts
+end_time: 1746628726324
+entry_point_name: ''
+experiment_id: '786476410954764362'
+lifecycle_stage: active
+run_id: 3578c1dc0452491f9ae0afbd4c17a9a7
+run_name: invincible-wolf-651
+run_uuid: 3578c1dc0452491f9ae0afbd4c17a9a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746628722368
+status: 3
+tags: []
+user_id: zeus

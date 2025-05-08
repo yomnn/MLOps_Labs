@@ -1,0 +1,15 @@
+artifact_uri: file:///teamspace/studios/this_studio/MLOps_Labs/outputs/2025-05-07/14-52-48/mlruns/574322733976003649/4d56d492d6be4136ac6561e0de54408c/artifacts
+end_time: 1746629573168
+entry_point_name: ''
+experiment_id: '574322733976003649'
+lifecycle_stage: active
+run_id: 4d56d492d6be4136ac6561e0de54408c
+run_name: gregarious-gnu-922
+run_uuid: 4d56d492d6be4136ac6561e0de54408c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746629569039
+status: 3
+tags: []
+user_id: zeus

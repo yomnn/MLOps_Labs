@@ -6,5 +6,4 @@ stages:
     - train_model.py
     outs:
     - models/model.pkl
- 
-
+  

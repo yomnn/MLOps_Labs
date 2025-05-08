@@ -2,7 +2,7 @@
 
 data:
   file_path: "data/titanic.csv"  # Path to your dataset
-  features: ["Pclass", "Sex", "Age", "SibSp", "Parch", "Fare"]  # Example features
+  features: ["Pclass", "Sex", "Age", "SibSp", "Parch", "Fare", "Embarked"]
   target: "Survived"
   test_size: 0.2
   random_state: 42
@@ -18,3 +18,9 @@ model:
   rf:
     n_estimators: 100
     random_state: 42
+  repo_name: "MLOps_Labs"
+  use_mlflow: true
+  repo_owner: "yomna.wael.mu"
+  tracking_uri: "https://dagshub.com/yomna.wael.mu/MLOps_Labs.mlflow"
+  model_path: "models"
+  model_name: "best_model"

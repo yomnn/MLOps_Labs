@@ -1,0 +1,6 @@
+[2025-05-08 14:32:13,542][httpx][INFO] - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[2025-05-08 14:32:13,547][dagshub][INFO] - Accessing as yomna.wael.mu
+[2025-05-08 14:32:13,625][httpx][INFO] - HTTP Request: GET https://dagshub.com/api/v1/repos/yomna.wael.mu/MLOps_Labs "HTTP/1.1 200 OK"
+[2025-05-08 14:32:13,670][httpx][INFO] - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[2025-05-08 14:32:13,672][dagshub][INFO] - Initialized MLflow to track repo "yomna.wael.mu/MLOps_Labs"
+[2025-05-08 14:32:13,673][dagshub][INFO] - Repository yomna.wael.mu/MLOps_Labs initialized!

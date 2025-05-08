@@ -1,0 +1,15 @@
+artifact_uri: file:///teamspace/studios/this_studio/MLOps_Labs/outputs/2025-05-07/14-49-34/mlruns/189674743009038248/961d8571a49a4ed681b2a41e1753212d/artifacts
+end_time: 1746629379239
+entry_point_name: ''
+experiment_id: '189674743009038248'
+lifecycle_stage: active
+run_id: 961d8571a49a4ed681b2a41e1753212d
+run_name: luminous-fawn-388
+run_uuid: 961d8571a49a4ed681b2a41e1753212d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746629375268
+status: 3
+tags: []
+user_id: zeus
