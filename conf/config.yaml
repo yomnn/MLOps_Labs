@@ -18,6 +18,7 @@ model:
   rf:
     n_estimators: 100
     random_state: 42
+    
   repo_name: "MLOps_Labs"
   use_mlflow: true
   repo_owner: "yomna.wael.mu"

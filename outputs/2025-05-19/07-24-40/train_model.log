@@ -1,0 +1,7 @@
+[2025-05-19 07:24:40,419][dagshub.auth.tokens][WARNING] - The added token already exists in the token cache, skipping
+[2025-05-19 07:24:40,472][httpx][INFO] - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[2025-05-19 07:24:40,478][dagshub][INFO] - Accessing as yomna.wael.mu
+[2025-05-19 07:24:40,560][httpx][INFO] - HTTP Request: GET https://dagshub.com/api/v1/repos/yomna.wael.mu/MLOps_Labs "HTTP/1.1 200 OK"
+[2025-05-19 07:24:40,606][httpx][INFO] - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[2025-05-19 07:24:40,609][dagshub][INFO] - Initialized MLflow to track repo "yomna.wael.mu/MLOps_Labs"
+[2025-05-19 07:24:40,610][dagshub][INFO] - Repository yomna.wael.mu/MLOps_Labs initialized!

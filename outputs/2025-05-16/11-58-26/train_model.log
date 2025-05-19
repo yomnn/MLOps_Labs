@@ -1,0 +1,1 @@
+[2025-05-16 11:58:26,601][httpx][INFO] - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 401 Unauthorized"
